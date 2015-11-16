@@ -2,10 +2,10 @@
 <widget id="com.ionicframework.atestudemyapp670668" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>aTestUdemyApp</name>
   <description>
-        An Ionic Framework and Cordova project.
-    </description>
-  <author email="hi@ionicframework" href="http://ionicframework.com/">
-      Ionic Framework Team
+    A stock market app built with Ionic! 
+  </description>
+  <author email="alirtariq@gmail.com" href="http://artariq.com/">
+      Ali R. Tariq
     </author>
   <content src="index.html"/>
   <access origin="*"/>
